@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TCA9534APWR)(type Legacy)(uri ${KIPRJMOD}/footprints.pretty/TCA9534APWR.kicad_mod)(options "")(descr ""))
+)
