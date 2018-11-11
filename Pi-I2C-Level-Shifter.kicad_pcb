@@ -1328,12 +1328,12 @@
       (xy -1.971615 -1.454739) (xy -1.908759 -1.469184)) (layer B.SilkS) (width 0.01))
   )
 
-  (module Fiducial:Fiducial_0.75mm_Dia_1.5mm_Outer (layer F.Cu) (tedit 59FE0228) (tstamp 5C0130C9)
+  (module Fiducial:Fiducial_0.75mm_Dia_1.5mm_Outer (layer F.Cu) (tedit 5BE878BD) (tstamp 5C0130C9)
     (at 180.1622 92.9132)
     (descr "Circular Fiducial, 0.75mm bare copper top; 1.5mm keepout (Level B)")
     (tags marker)
     (attr virtual)
-    (fp_text reference REF** (at 0 -2) (layer F.SilkS)
+    (fp_text reference REF** (at 0 -2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Fiducial_0.75mm_Dia_1.5mm_Outer (at 0 2) (layer F.Fab)
